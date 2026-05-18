@@ -4,3 +4,4 @@ def greet(name):
 user = input("Enter your name: ")
 print(greet(user))
 print("Thanks for learning GIT")
+print("Git is awesome")
